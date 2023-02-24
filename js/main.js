@@ -48,7 +48,7 @@ function update() {
         document.getElementById('mm2').classList.remove('active');
         document.getElementById('mm3').classList.remove('active');
         document.getElementById('mm4').classList.add('active');
-        document.getElementById('mm5').classList.remove('active');
+        
         temp = 4;
     }
 
