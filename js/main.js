@@ -4,7 +4,7 @@ swup.on('contentReplaced', update);
 var temp = 0;
 
 function update() {
-    if (window.location.href == 'https://hemasagar07.github.io/mainportfolio/') {
+    if (window.location.href == 'https://hemasagar07.github.io/mainportfolio/index.html') {
         document.getElementById('mm0').classList.add('active');
         document.getElementById('mm1').classList.remove('active');
         document.getElementById('mm2').classList.remove('active');
