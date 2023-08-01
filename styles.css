@@ -352,7 +352,7 @@ th {
         padding: 20px;
     }
     .innerMain {
-        width: 135%;
+        width: 100%;
         margin: 0;
         text-align: center;
         height: calc(100vh - 150px);
